@@ -1,2 +1,3 @@
-# flower_classifier
-An image classifier with PyTorch to process images in dataset and classify them  by type.
+# AI Programming with Python Project
+
+Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
